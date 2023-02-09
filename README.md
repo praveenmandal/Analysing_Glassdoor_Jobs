@@ -28,8 +28,8 @@ There are 12 columns in the data they are as follows:
 
 
 ## Steps for Cleaning and Data and END 
-### 1. Removing unnecessary columns.
-    Removing salary_estimate,location,rating,headquater,size,revenue,Min_Salary,Max_Salary,avg_salary,job_state,same_state,company_age,python,excel,hadoop,spark,aws,tableau,big_data,job_simp,seniority.
+### 1. Removing unnecessary columns.<br>
+Removing     salary_estimate,location,rating,headquater,size,revenue,Min_Salary,Max_Salary,avg_salary,job_state,same_state,company_age,python,excel,hadoop,spark,aws,tableau,big_data,job_simp,seniority.
 
 These columns are of no use right now hence they are removed by declaring them as comments through SQL sever query.
 
