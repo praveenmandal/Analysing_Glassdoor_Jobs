@@ -1,5 +1,5 @@
 # Glassdoor Jobs Data-Analysis
-I came up with this personal personal project to test my skills to the fullest and learn new things. In this project I analyzed the gathered data and created the dashboard with the insights below.
+I came up with this personal project to test my skills to the fullest and learn new things. In this project I analyzed the gathered data and created the dashboard with the insights below.
 
 ## About Glassdoor
 
